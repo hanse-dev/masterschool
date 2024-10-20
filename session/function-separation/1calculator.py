@@ -1,5 +1,5 @@
 while True:
-    print("\nEinfacher Taschenrechner")
+    print("Einfacher Taschenrechner")
     print("1. Addition")
     print("2. Subtraktion")
     print("3. Multiplikation")
