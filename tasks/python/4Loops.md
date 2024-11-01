@@ -1,5 +1,5 @@
 # Loops
-### Task Fibonacci Sequence Generator 
+## Task Fibonacci Sequence Generator 
 ### Goal
  Create a program that generates the Fibonacci sequence up to n terms. 
 ### Scope
@@ -7,7 +7,7 @@
 ### Requirement
  Use a for loop to generate the sequence.
 
-### Task Multiplication Table Generator 
+## Task Multiplication Table Generator 
 ### Goal
  Develop a program that generates a multiplication table for a given number. 
 ### Scope
@@ -15,7 +15,7 @@
 ### Requirement
  Use a for loop to generate the table.
 
-### Task Prime Number Checker 
+## Task Prime Number Checker 
 ### Goal
  Create a program that determines if a number is prime. 
 ### Scope
@@ -23,7 +23,7 @@
 ### Requirement
  Use a for loop to check for factors.
 
-### Task Guess the Number Game 
+## Task Guess the Number Game 
 ### Goal
  Develop a game where the user guesses a random number. 
 ### Scope
@@ -31,7 +31,7 @@
 ### Requirement
  Use a while loop for multiple guesses.
 
-### Task Pattern Printer 
+## Task Pattern Printer 
 ### Goal
  Create a program that prints a pyramid pattern of asterisks. 
 ### Scope

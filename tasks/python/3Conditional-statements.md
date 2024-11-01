@@ -1,6 +1,6 @@
 # Conditional statements
 
-### Task: Grade Classifier 
+## Task: Grade Classifier 
 ### Goal
  Create a program that assigns letter grades based on numerical scores. 
 ### Scope
@@ -8,7 +8,7 @@
 ### Requirement
 Use if-elif-else statements for grade ranges.
 
-### Task: Leap Year Checker 
+## Task: Leap Year Checker 
 ### Goal
  Develop a program that determines if a given year is a leap year. 
 ### Scope
@@ -16,7 +16,7 @@ Use if-elif-else statements for grade ranges.
 ### Requirement
 Implement the leap year rule using nested if statements.
 
-### Task: Triangle Type Identifier 
+## Task: Triangle Type Identifier 
 ### Goal
  Create a program that identifies the type of triangle based on side lengths. 
 ### Scope
@@ -24,7 +24,7 @@ Implement the leap year rule using nested if statements.
 ### Requirement
 Use conditional statements to check side equality.
 
-### Task: Simple Password Validator 
+## Task: Simple Password Validator 
 ### Goal
  Develop a program that validates a user-input password. 
 ### Scope
@@ -32,7 +32,7 @@ Use conditional statements to check side equality.
 ### Requirement
 Use multiple if statements to check each criterion.
 
-### Task: Rock Paper Scissors Game 
+## Task: Rock Paper Scissors Game 
 ### Goal
  Create a simple rock-paper-scissors game against the computer. 
 ### Scope

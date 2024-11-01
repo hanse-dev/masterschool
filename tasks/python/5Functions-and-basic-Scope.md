@@ -1,6 +1,6 @@
 Functions and basic Scope
 
-### Task Calculator with Functions 
+## Task Calculator with Functions 
 ### Goal
  Create a calculator program using functions for each operation. 
 ### Scope
@@ -8,7 +8,7 @@ Functions and basic Scope
 ### Requirement
  Use function parameters and return values.
 
-### Task Palindrome Checker 
+## Task Palindrome Checker 
 ### Goal
  Develop a function that checks if a word or phrase is a palindrome. 
 ### Scope
@@ -16,7 +16,7 @@ Functions and basic Scope
 ### Requirement
  Create a function with a boolean return value.
 
-### Task List Statistics Calculator 
+## Task List Statistics Calculator 
 ### Goal
  Create functions to calculate mean, median, and mode of a list of numbers. 
 ### Scope
@@ -24,7 +24,7 @@ Functions and basic Scope
 ### Requirement
  Use list manipulation within functions.
 
-### Task Password Generator 
+## Task Password Generator 
 ### Goal
  Develop a function that generates a random password. 
 ### Scope
@@ -32,7 +32,7 @@ Functions and basic Scope
 ### Requirement
  Use local variables within the function.
 
-### Task Recursive Factorial Calculator 
+## Task Recursive Factorial Calculator 
 ### Goal
  Create a recursive function to calculate the factorial of a number. 
 ### Scope

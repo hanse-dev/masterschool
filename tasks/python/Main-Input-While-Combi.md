@@ -1,5 +1,5 @@
 # Understand and use if name == ‘main’, inputs and while loops
-### Task: Guess the Number Game 
+## Task: Guess the Number Game 
 ### Goal
  Create a number guessing game that runs only when the script is executed directly. 
 ### Scope
@@ -9,7 +9,7 @@
 - Use input() to get user guesses
 - Implement a while loop for multiple guesses
 - Provide “too high” or “too low” feedback after each guess
-### Task: Calculator Module 
+## Task: Calculator Module 
 ### Goal
  Develop a calculator module that can be imported or run as a standalone program. 
 ### Scope
@@ -20,7 +20,7 @@
 - Use if name == ‘main’ to provide a CLI when run directly
 - Use input() to get operation choice and numbers from the user
 - Implement a while loop to allow multiple calculations
-### Task: File Word Counter 
+## Task: File Word Counter 
 ### Goal
  Create a program that counts words in a file, with the option to run interactively. 
 ### Scope
@@ -31,7 +31,7 @@
 - Use if name == ‘main’ to provide an interactive mode
 - Use input() to get the filename from the user when in interactive mode
 - Implement a while loop to allow counting words in multiple files
-### Task: Quiz Game 
+## Task: Quiz Game 
 ### Goal
  Develop a quiz game that can be imported as a module or run as a standalone program. 
 ### Scope
@@ -42,7 +42,7 @@
 - Use if name == ‘main’ to start the game when run directly
 - Use input() to get user answers
 - Implement a while loop to allow multiple quiz rounds
-### Task: Temperature Converter 
+## Task: Temperature Converter 
 ### Goal
  Create a temperature converter that can be used as a module or run interactively. 
 ### Scope

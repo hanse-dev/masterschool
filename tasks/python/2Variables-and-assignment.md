@@ -1,6 +1,6 @@
 # Variables and assignment
 
-### Task: Variable Swap 
+## Task: Variable Swap 
 ### Goal
  Write a program that swaps the values of two variables. 
 ### Scope
@@ -8,7 +8,7 @@
 ### Requirement
  Use a temporary variable for swapping.
 
-### Task: Compound Interest Calculator 
+## Task: Compound Interest Calculator 
 ### Goal
  Create a program that calculates compound interest. 
 ### Scope
@@ -16,7 +16,7 @@
 ### Requirement
  Use appropriate variable names and the compound interest formula.
 
-### Task: Rectangle Area and Perimeter Calculator 
+## Task: Rectangle Area and Perimeter Calculator 
 ### Goal
  Develop a program that calculates the area and perimeter of a rectangle. 
 ### Scope
@@ -24,7 +24,7 @@
 ### Requirement
  Use descriptive variable names for length, width, area, and perimeter.
 
-### Task: Time Converter 
+## Task: Time Converter 
 ### Goal
  Create a program that converts seconds to hours, minutes, and seconds. 
 ### Scope
@@ -32,7 +32,7 @@
 ### Requirement
  Use integer division and modulo operators for conversion.
 
-### Task: BMI Calculator 
+## Task: BMI Calculator 
 ### Goal
  Develop a Body Mass Index (BMI) calculator. 
 ### Scope
